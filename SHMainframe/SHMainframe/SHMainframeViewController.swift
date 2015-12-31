@@ -1,6 +1,6 @@
 //
-//  SHMainFrameViewController.swift
-//  SHViewFramewrokForQQ1
+//  SHMainframeViewController.swift
+//  SHMainframe
 //
 //  Created by Sam on 15/12/15.
 //  Copyright © 2015年 Sam. All rights reserved.
