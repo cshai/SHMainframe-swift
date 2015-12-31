@@ -8,4 +8,7 @@
          location = "group:SHMainframe.xcodeproj">
       </FileRef>
    </Group>
+   <FileRef
+      location = "group:SHMainframeTest/SHMainframeTest.xcodeproj">
+   </FileRef>
 </Workspace>
