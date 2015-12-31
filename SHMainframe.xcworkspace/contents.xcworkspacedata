@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:SHMainframe"
+      name = "SHMainframe">
+      <Group
+         location = "group:SHMainframe"
+         name = "SHMainframe">
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SHMainframe.h">
+         </FileRef>
+         <FileRef
+            location = "group:SHMainframeViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:SHViewControllerExtension.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SHMainframe.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
