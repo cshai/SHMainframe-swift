@@ -3,10 +3,10 @@
 
 ## 导入方法
 1 如果你的项目是Project，请将下面两个文件直接放置到你的工程下:<br>
-    >SHMainframeViewController.swift<br>
-    >SHViewControllerExtension.swift<br>
+>SHMainframeViewController.swift<br>
+>SHViewControllerExtension.swift<br>
 2 如果你的项目是workspace，请将SHMainfram项目直接拖拽到你工作空间，然后导入框架，并在项目配置中添加依赖<br>
-    >import SHMainFrame<br>
+>import SHMainFrame<br>
 
 3 你可以将SHMainframe项目编译好的SHMainframe.framework 文件直接拖拽到你的项目下，并设置好依赖即可。<br>
 （这里注意模拟器编译出来的SHMainframe.framework，和iphones 编译出来的两个SHMainframe.framework的区别）<br>
