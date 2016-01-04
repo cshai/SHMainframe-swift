@@ -1,6 +1,6 @@
 # SHMainframe
 封装类似手机qq主视图的拖拽效果（抽屉效果），使用极其简单，相似度100%。<br>
-
+OC版本请到: https://github.com/cshai/SHMainframe-objective-c
 ## 导入方法
     1 如果你的项目是Project，请将下面两个文件直接放置到你的工程下:
         SHMainframeViewController.swift
